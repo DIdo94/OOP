@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Input">
+        <file>test.txt</file>
+        <file>qback.png</file>
+    </qresource>
+</RCC>

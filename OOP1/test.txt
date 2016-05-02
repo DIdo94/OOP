@@ -1,0 +1,3 @@
+Express,17:40:35,Sofia-12:15:40 Tarnovo-13:50:20 Varna-17:40:35,Varna,Sofia,12:15:40,400
+Fast,16:30:35,Gabrovo-9:10:40 Ruse-11:30:20 Varna-12:30:35,Varna,Gabrovo,12:15:40,250.40
+Fast,11:38:2,Sofia-08:15:00 Plovdiv-10:23:20 Dobrich-11:38:2,Dobrich,Sofia,08:15:00,630.23
